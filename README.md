@@ -84,7 +84,7 @@ LANGSMITH_TRACING=true
 LANGSMITH_ENDPOINT=https://api.smith.langchain.com
 LANGSMITH_API_KEY=your_langsmith_api_key
 LANGSMITH_PROJECT=TripMate-AI
-DEFAULT_ORIGIN_IATA=DAC
+DEFAULT_ORIGIN_IATA=FRA
 ```
 
 5. **Run the application**
